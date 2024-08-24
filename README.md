@@ -3,11 +3,11 @@ Repositório destinado ao armazenamento e compartilhamento dos materiais dos est
 
 ## Hiragana - Katakana - Kanji - Romaji
 
-[Resumo 1]()
+[Resumo 1](https://github.com/cissagatto/Japones/blob/main/Resumos/hira-kata-roma-1.pdf)
 
-[Resumo 2]()
+[Resumo 2](https://github.com/cissagatto/Japones/blob/main/Resumos/hira-kata-roma-2.pdf)
 
-[Resumo 3]()
+[Resumo 3](https://github.com/cissagatto/Japones/blob/main/Resumos/hira-kata-roma-3.pdf)
 
 ## Capítulo 1
 
