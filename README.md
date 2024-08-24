@@ -1,6 +1,14 @@
 # Japonês
 Repositório destinado ao armazenamento e compartilhamento dos materiais dos estudos de Japonês que tenho feito!
 
+## Hiragana - Katakana - Kanji - Romaji
+
+[Resumo 1]()
+
+[Resumo 2]()
+
+[Resumo 3]()
+
 ## Capítulo 1
 
 ## Capítulo 2
