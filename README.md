@@ -11,19 +11,19 @@ Repositório destinado ao armazenamento e compartilhamento dos materiais dos est
 
 [Resumo 3](https://github.com/cissagatto/Japones/blob/main/Resumos/hira-kata-roma-3.pdf)
 
-## Capítulo 1
+## Capítulo 1: Saudações | Hajimete no nihongo
 
-## Capítulo 2
+## Capítulo 2: Como falar algo em japonês, fala outra língua | Hajimete no nihongo
 
-## Capítulo 3
+## Capítulo 3: Onde mora, números e família | Watashi no koto
 
-## Capítulo 4
+## Capítulo 4: Kazoku, idade, pet | | Watashi no koto
 
-## Capítulo 5
+## Capítulo 5: comida e bebida | Suki na tabemono
 
-## Capítulo 6
+## Capítulo 6: fast food, restaurante | Suki na tabemono
 
-## Capítulo 7
+## Capítulo 7: casas e local de trabalho
 
 [Como falar os nomes dos cômodos de uma casa Japonesa - Parte 1](https://github.com/cissagatto/Japones/blob/main/Resumos/ninhon-no-Ie-Parte1.png)
 
@@ -42,4 +42,33 @@ Repositório destinado ao armazenamento e compartilhamento dos materiais dos est
 [Tipos de Casas no Japão - Parte 2](https://github.com/cissagatto/Japones/blob/main/Resumos/doona-shurui-no-ie.png)
 
 
-## Capítulo 8
+## Capítulo 8: casas e local de trabalho
+
+## Capítulo 9: vida diária
+
+## Capítulo 10: vida diária
+
+## Capítulo 11: coisas de que gosto
+
+## Capítulo 12: 
+
+## Capítulo 13: andando pela cidade
+
+## Capítulo 14: 
+
+## Capítulo 15: lojas
+
+## Capítulo 16: 
+
+## Capítulo 17: nos dias de folga
+
+## Capítulo 18:
+
+## Capítulo 17: nos dias de folga
+
+
+
+
+
+
+
