@@ -23,7 +23,9 @@ Repositório destinado ao armazenamento e compartilhamento dos materiais dos est
 
 ## Capítulo 7
 
-[Casa Japonesa]()
+[Como falar os nomes dos cômodos de uma casa Japonesa - Parte 1](https://github.com/cissagatto/Japones/blob/main/Resumos/ninhon-no-Ie-Parte1.png)
+
+[Como falar os nomes dos cômodos de uma casa Japonesa - Parte 2]()
 
 [Tipos de Casas no Japão - Parte 1]()
 
