@@ -27,6 +27,8 @@ Repositório destinado ao armazenamento e compartilhamento dos materiais dos est
 
 [Como falar os nomes dos cômodos de uma casa Japonesa - Parte 2](https://github.com/cissagatto/Japones/blob/main/Resumos/ninhon-no-Ie-Parte2.png)
 
+[Como falar os nomes dos cômodos de uma casa Japonesa - Parte 3](https://github.com/cissagatto/Japones/blob/main/Resumos/ninhon-no-Ie-Parte3.png)
+
 [Tipos de Casas no Japão - Parte 1]()
 
 [Tipos de Casas no Japão - Parte 2](https://github.com/cissagatto/Japones/blob/main/Resumos/doona-shurui-no-ie.png)
