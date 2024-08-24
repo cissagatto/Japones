@@ -29,6 +29,8 @@ Repositório destinado ao armazenamento e compartilhamento dos materiais dos est
 
 [Como falar os nomes dos cômodos de uma casa Japonesa - Parte 3](https://github.com/cissagatto/Japones/blob/main/Resumos/ninhon-no-Ie-Parte3.png)
 
+[Como falar os nomes dos cômodos de uma casa Japonesa - Parte 4](https://github.com/cissagatto/Japones/blob/main/Resumos/ninhon-no-Ie-Parte4.png)
+
 [Eletrodomésticos e Móveis - Parte 1](https://github.com/cissagatto/Japones/blob/main/Resumos/kaden-kadu-1.png)
 
 [Eletrodomésticos e Móveis - Parte 2](https://github.com/cissagatto/Japones/blob/main/Resumos/kaden-kadu-2.png)
