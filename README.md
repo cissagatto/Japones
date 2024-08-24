@@ -23,11 +23,11 @@ Repositório destinado ao armazenamento e compartilhamento dos materiais dos est
 
 ## Capítulo 7
 
+[Casa Japonesa]()
+
 [Tipos de Casas no Japão - Parte 1]()
 
-[Tipos de Casas no Japão - Parte 2]()
-
-[Tipos de Casas no Japão - Parte 3](https://github.com/cissagatto/Japones/blob/main/Resumos/doona-shurui-no-ie.png)
+[Tipos de Casas no Japão - Parte 2](https://github.com/cissagatto/Japones/blob/main/Resumos/doona-shurui-no-ie.png)
 
 
 ## Capítulo 8
