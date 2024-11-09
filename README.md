@@ -64,8 +64,6 @@ Repositório destinado ao armazenamento e compartilhamento dos materiais dos est
 
 ## Capítulo 18:
 
-## Capítulo 17: nos dias de folga
-
 
 
 
